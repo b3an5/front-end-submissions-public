@@ -148,6 +148,6 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Theo Bean
 
-* [Node Server Tutorial]()
-* [Annotated Express server file]()
-* [Promise Practice Exercises]()
+* [Node Server Tutorial](https://github.com/b3an5/node-prework)
+* [Annotated Express server file](https://github.com/b3an5/trapper-keeper-api/tree/prework)
+* [Promise Practice Exercises](https://repl.it/@b3an5/prework)
